@@ -1,0 +1,27 @@
+{
+  "name": "motamayezclient",
+  "authors": [
+    "Baligh Hatem <porthell@gmail.com>"
+  ],
+  "description": "client side web app for motamayez ERP",
+  "main": "index.htm",
+  "keywords": [
+    "motamayez",
+    "ERP"
+  ],
+  "license": "Private",
+  "homepage": "http://www.motamayez.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.7.5",
+    "angular-ui-router": "^1.0.20",
+    "angular-bootstrap": "^2.5.0"
+  }
+}
