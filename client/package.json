@@ -9,7 +9,7 @@
   "author": "Baligh Hatem Mehrez",
   "license": "ISC",
   "devDependencies": {
-    "acorn": "^6.0.4",
+    "acorn": "^6.4.1",
     "autoprefixer": "^9.4.3",
     "browser-sync": "^2.26.3",
     "child_process": "^1.0.2",
