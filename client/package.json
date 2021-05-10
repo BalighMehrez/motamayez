@@ -27,7 +27,7 @@
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
     "jshint": "^2.9.7",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "webpack": "^4.27.1",
     "webpack-stream": "^5.2.1",
     "wiredep": "^4.0.0"
